@@ -62,7 +62,7 @@ global.namaowner = 'Owner Black BotZ Official'
 global.myweb = 'https://youtube.com/channel/UCWN89V_QtNnav2UFF8epaug'
 
 
-global.owner = [ '6282143349069' ]
+global.owner = [ '6282143349069',6282143440025' ]
 
 
 global.premium = ['6282143349069']
@@ -71,7 +71,7 @@ global.premium = ['6282143349069']
 global.packname = 'Black BotZ Official'
 
 
-global.author = 'WhatsApp Bot'
+global.author = '© Black BotZ Official nomer bot : 082143349069'
 
 
 global.sessionName = 'hisoka'
@@ -89,22 +89,22 @@ global.mess = {
     success: '✓ Success',
 
 
-    admin: 'Fitur Khusus Admin Group!',
+    admin: 'Anu  Khusus Admin Group!',
 
 
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
+    botAdmin: 'Anu Bot Harus Menjadi Admin Terlebih Dahulu!',
 
 
-    owner: 'Fitur Khusus Owner Bot',
+    owner: 'Anu Khusus Owner Bot',
 
 
-    group: 'Fitur Digunakan Hanya Untuk Group!',
+    group: 'Anu Digunakan Hanya Untuk Group!',
 
 
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
+    private: 'Anu Digunakan Hanya Untuk Private Chat!',
 
 
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
+    bot: 'Anu Khusus Pengguna Nomor Bot',
 
 
     wait: 'Loading...',
