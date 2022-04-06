@@ -62,7 +62,7 @@ global.namaowner = 'Owner Black BotZ Official'
 global.myweb = 'https://youtube.com/channel/UCWN89V_QtNnav2UFF8epaug'
 
 
-global.owner = [ '6282143349069',6282143440025' ]
+global.owner = [ '6282143349069','6282143440025' ]
 
 
 global.premium = ['6282143349069']
