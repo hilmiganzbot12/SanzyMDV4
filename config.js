@@ -62,7 +62,7 @@ global.namaowner = 'Owner Black BotZ Official'
 global.myweb = 'https://youtube.com/channel/UCWN89V_QtNnav2UFF8epaug'
 
 
-global.owner = [ '6282143349069','6282143440025' ]
+global.owner = ['6282143349069']
 
 
 global.premium = ['6282143349069']
@@ -71,7 +71,7 @@ global.premium = ['6282143349069']
 global.packname = 'Black BotZ Official'
 
 
-global.author = '© Black BotZ Official nomer bot : 082143349069'
+global.author = '© Black BotZ Official nomer bot : 088290465694'
 
 
 global.sessionName = 'hisoka'
@@ -104,7 +104,7 @@ global.mess = {
     private: 'Anu Digunakan Hanya Untuk Private Chat!',
 
 
-    bot: 'Anu Khusus Pengguna Nomor Bot',
+    bot: 'Anu Khusus Nomor Bot',
 
 
     wait: 'Loading...',
@@ -122,7 +122,7 @@ global.limitawal = {
     premium: "Infinity",
 
 
-    free: 100
+    free: 10000
 
 
 }
